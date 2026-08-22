@@ -49,7 +49,7 @@ export default function Education() {
             <p className="text-gray-500 text-lg text-left">
               Chaitanya's International School Baramati, Pune.
             </p>
-            <p className="text-gray-500 text-lg text-left">2022-23 | Completed | 64%</p>
+            <p className="text-gray-500 text-lg text-left">2022-23 | Completed | 62%</p>
           </div>
         </div>
 
