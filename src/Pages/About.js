@@ -4,7 +4,7 @@ import about from "../Assets/about.png";
 import { Link } from "react-router-dom";
 import FadeIn from "react-fade-in";
 import DownloadLink from "react-download-link";
-import resume from './Resume/Shreyas_Lohakare.pdf';
+import resume from './Resume/Shreyas Lohakare.pdf';
 
 export default function About() {
   return (
