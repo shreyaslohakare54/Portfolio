@@ -67,7 +67,7 @@ export default function Education() {
             <p className="text-gray-500 text-lg text-left">
               Air Force School Vimanagar, Pune.
             </p>
-            <p className="text-gray-500 text-lg text-left">2021 | Completed | 87%</p>
+            <p className="text-gray-500 text-lg text-left">2021 | Completed | 86%</p>
           </div>
         </div>
 
